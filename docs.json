@@ -7,9 +7,9 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-        "background": {
-          "decoration": "grid",
-      },
+  "background": {
+    "decoration": "grid",
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
@@ -72,7 +72,6 @@
       }
     ],
     "global": {
-
       "anchors": [
         {
           "anchor": "Documentation",
