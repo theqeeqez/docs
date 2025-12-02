@@ -12,6 +12,14 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "languages": [
+      {
+        "language": "en"
+      },
+      {
+        "language": "ru"
+      }
+    ],
     "tabs": [
       {
         "tab": "Guides",
@@ -21,6 +29,7 @@
             "pages": [
               "index",
               "quickstart",
+              "---OPA REFERENCE---",
               "development"
             ]
           },
